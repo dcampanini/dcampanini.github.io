@@ -116,23 +116,16 @@ $xing-color                 : #006567;
 /* ==========================================================================
    color for the navigation bar or header section
    ========================================================================== */
-.header {
-   background-color: #3498db; /* blue color */
-   padding: 10px;
-   text-align: center;
+.site-header {
+   background-color: #0077cc !important; /* Change this to your desired color */
+   padding: 15px;
    }
    
-.header a {
-color: #ffffff; /* white color */
-text-decoration: none;
+.site-nav a {
+color: white !important;
 }
-
-.header a:hover {
-color: #cccccc; /* light gray color */
+   
+.site-nav a:hover {
+background-color: #005fa3;
+border-radius: 5px;
 }
-
-.navbar {
-   background-color: #3498db;
-   padding: 10px;
-   text-align: center;
- }
