@@ -26,8 +26,8 @@ author:
   name             : "Diego Campanini"
   pronouns         : # example: "she/her"  
   bio              : "Research Engineer @ University of Chile"
-  location         : ""
-  employer         : ""
+  location         : # "Santiago, Chile"
+  employer         : "University of Chile"
   uri              : # URL
   email            : "campanini.diego@gmail.com" 
 
