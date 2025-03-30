@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical Engineer from the University of Chile, currently I spent my time between my alma mater and the Pontifical Catholic University of Chile, working in Multimodal Large Language Model (MLLM) to address different tasks in medicine such as medical report generation or medical visual question answering (VQA).
+I am an Electrical Engineer from the University of Chile, currently I divide my time between my alma mater and the Pontifical Catholic University of Chile, working on Multimodal Large Language Models (MLLMs) to address different medical tasks, such as medical report generation or medical visual question answering (VQA).
 
-Previously I have worked in Computer Vision in different problems such as object detection, people detection in mines to avoid fatalities, action classification of people, and detection of supermarket shelves.
+Previously, I worked in Computer Vision on different problems, including object detection, people detection in mines to prevent fatalities, action classification, and supermarket shelf detection.
 
-My research interests are multimodality, improve the projection of images to the latent space of the Large Language Models, self supervise learning, computer vision, and reinforcement learning.
+My research interests include multimodality, improving the projection of images into the latent space of Large Language Models, self-supervised learning, computer vision, and reinforcement learning.
 
 
 Work Experience
@@ -49,7 +49,7 @@ Publications
 ======
 2024
 
-ihealth-chile-1 at rrg24: In-context learning and finetuning of a large multimodal model for radiology report generation. Diego Campanini, Oscar Loch, Pablo Messina, Rafael Elberg, Denis Parra. Proceedings of the 23rd Workshop on Biomedical Natural Language Processing
+[ihealth-chile-1 at rrg24: In-context learning and finetuning of a large multimodal model for radiology report generation.](https://aclanthology.org/2024.bionlp-1.52.pdf) Diego Campanini, Oscar Loch, Pablo Messina, Rafael Elberg, Denis Parra. Proceedings of the 23rd Workshop on Biomedical Natural Language Processing
 
 
 
