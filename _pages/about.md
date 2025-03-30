@@ -47,7 +47,7 @@ Publications
 ======
 
 <div class="publication-section">
-
+{% raw %}
 ### 2024
 
 [ihealth-chile-1 at rrg24: In-context learning and finetuning of a large multimodal model for radiology report generation.](https://aclanthology.org/2024.bionlp-1.52.pdf) <br> 
@@ -70,6 +70,7 @@ Thesis to qualify for the title of Electrical Engineer at University of Chile.
 Luz Martínez, Rodrigo Muñoz, Gonzalo Olave, Giovanni Pais, Gustavo Hernan, David Gomez, Leonardo Garrido, Diego Campanini, Pedro Orellana, Patricio Loncomilla, Javier Ruiz-del Solar. <br>
 RoboCup@ Home, 2017
 
+{% endraw %}
 </div>
 
 <!-- Projects
