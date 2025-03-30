@@ -104,7 +104,7 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 /* ==========================================================================
-   box 
+   color box for publication sectio
    ========================================================================== */
 .publication-section {
    border: 1px solid #d3d3d3;
@@ -112,3 +112,21 @@ $xing-color                 : #006567;
    background-color: #f9f9f9;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
    }
+
+/* ==========================================================================
+   color for the navigation bar or header section
+   ========================================================================== */
+.header {
+   background-color: #3498db; /* blue color */
+   padding: 10px;
+   text-align: center;
+   }
+   
+.header a {
+color: #ffffff; /* white color */
+text-decoration: none;
+}
+
+.header a:hover {
+color: #cccccc; /* light gray color */
+}
