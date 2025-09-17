@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electrical Engineer from the University of Chile, I have been working for 2 years doing research on Multimodal Large Language Models (MLLMs) to address different medical tasks, such as medical report generation or medical visual question answering (VQA).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I worked in Computer Vision on different problems, including object detection, people detection in mines to prevent fatalities, action classification, and supermarket shelf detection.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include multimodality, improving the projection of images into the latent space of Large Language Models, self-supervised learning, computer vision, and reinforcement learning.
