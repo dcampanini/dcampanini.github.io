@@ -504,6 +504,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=8PDuRXIAAAAJ&hl", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://huggingface.co/dcampanini", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
