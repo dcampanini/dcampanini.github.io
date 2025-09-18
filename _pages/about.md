@@ -27,10 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Electrical Engineer from the University of Chile, I have been working for the last 2 years doing fundamental research on Multimodal Large Language Models (MLLMs) to address different medical tasks, such as medical report generation or medical visual question answering (VQA).
+I am an Electrical Engineer from the University of Chile, currently working in the research institute [iHealth](https://i-health.cl/) doing fundamental research on Multimodal Large Language Models (MLLMs) for medical applications, including radiological report generation and medical visual question answering (VQA). I am advised by [Pablo A. Estevez](https://scholar.google.com/citations?user=SM1ghUEAAAAJ&hl=en) and [Denis Parra](https://scholar.google.com/citations?user=aQ9TkcIAAAAJ&hl=en). 
 
-My research interests include multimodality, improving the projection of images into the latent space of Large Language Models, self-supervised learning, computer vision, and reinforcement learning.
+My research interests include multimodality, improving image projection into the latent space of Large Language Models, autoencoder architectures, data generation with diffusion models, self-supervised learning, uncertainty quantification, and explainable AI.
 
-Previously, I worked for 5 years a Data Scientist in a consulting company [Zenta](https://zentagroup.com/)  in Computer Vision on different problems, including object detection, people detection in mines to prevent fatalities, action classification, and supermarket shelf detection.
+Previously, I worked for 5 years as a Data Scientist at the consulting company [Zenta](https://zentagroup.com/), and at the Advance Mining Technology Center ([AMTC](https://www.amtc.cl)). I participated in projects involving object detection, people detection in mines to prevent fatalities, action classification, supermarket shelf detection, sales forecasting, RAG-based chatbots, and client segmentation for [Cencosud](https://www.cencosud.com/en).
 
+I obtained my Bachelor of Science in Engineering with major in Electrical Engineering from the University of Chile, where I worked with [Javier Ruiz del Sola](https://scholar.google.com/citations?user=U0XHBs8AAAAJ&hl=en), [Felipe Tobar](https://scholar.google.com/citations?user=5XHRNwYAAAAJ&hl=en), and [Diana Dulic](https://scholar.google.com/citations?user=6PJLDzkAAAAJ&hl=en)
 
