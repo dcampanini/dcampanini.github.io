@@ -398,11 +398,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-obtained-the-google-cloud-certification-professional-data-engineer",
+            },},{id: "news-i-was-selected-in-my-company-zenta-as-the-most-outstanding-worker-who-in-a-short-period-of-time-showed-proficiency-and-great-talent-helping-the-company-to-reach-its-goals",
+          title: 'I was selected in my company Zenta as the most outstanding worker who...',
+          description: "",
+          section: "News",},{id: "news-i-obtained-the-google-cloud-certification-professional-data-engineer",
           title: 'I obtained the Google Cloud Certification Professional Data Engineer',
           description: "",
           section: "News",},{id: "news-i-obtained-the-google-cloud-certification-professional-machine-learning-engineer",
           title: 'I obtained the Google Cloud Certification Professional Machine Learning Engineer',
+          description: "",
+          section: "News",},{id: "news-i-did-a-presentation-on-amazon-web-services-aws-chile-about-amazon-sagemaker-and-automl-to-automatically-train-and-tune-ml-models",
+          title: 'I did a presentation on Amazon Web Services (AWS) Chile about Amazon SageMaker...',
           description: "",
           section: "News",},{id: "news-i-joined-ihealth-millennium-institute-for-intelligent-healthcare-engineering-to-conduct-research-on-multimodal-language-models-mllms-for-medical-tasks",
           title: 'I joined iHEALTH - Millennium Institute for Intelligent Healthcare Engineering to conduct research...',
