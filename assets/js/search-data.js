@@ -398,16 +398,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-obtained-the-google-cloud-certification-professional-data-engineer",
+          title: 'I obtained the Google Cloud Certification Professional Data Engineer',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-obtained-the-google-cloud-certification-professional-machine-learning-engineer",
+          title: 'I obtained the Google Cloud Certification Professional Machine Learning Engineer',
           description: "",
-          section: "News",},{id: "news-i-attended-acl-2024-to-present-2-works-ihealth-chile-1-at-rrg24-in-context-learning-and-finetuning-of-a-large-multimodal-model-for-radiology-report-generation-and-ihealth-chile-3-amp-amp-2-at-rrg24-template-based-report-generation",
-          title: 'I attended ACL 2024 to present 2 works iHealth-Chile-1 at RRG24: In-context Learning...',
+          section: "News",},{id: "news-i-joined-ihealth-millennium-institute-for-intelligent-healthcare-engineering-to-conduct-research-on-multimodal-language-models-mllms-for-medical-tasks",
+          title: 'I joined iHEALTH - Millennium Institute for Intelligent Healthcare Engineering to conduct research...',
+          description: "",
+          section: "News",},{id: "news-i-attended-acl-2024-to-present-2-papers-ihealth-chile-1-at-rrg24-in-context-learning-and-finetuning-of-a-large-multimodal-model-for-radiology-report-generation-and-ihealth-chile-3-amp-amp-2-at-rrg24-template-based-report-generation",
+          title: 'I attended ACL 2024 to present 2 papers iHealth-Chile-1 at RRG24: In-context Learning...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
