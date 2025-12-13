@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Electrical Engineer from the University of Chile with 2 Google Cloud Certifications (Professional Machine Learning Engineer and Data Engineer). I am currently working at the research institute [iHealth](https://i-health.cl/), where I conduct fundamental research on Multimodal Large Language Models (MLLMs) for medical applications, including radiological report generation and medical visual question answering (VQA). I am advised by [Pablo A. Estevez](https://scholar.google.com/citations?user=SM1ghUEAAAAJ&hl=en) and [Denis Parra](https://scholar.google.com/citations?user=aQ9TkcIAAAAJ&hl=en).
+I am an Electrical Engineer from the University of Chile with 2 Google Cloud Certifications (Professional Machine Learning Engineer and Data Engineer). I am currently working at the research institute [iHealth](https://i-health.cl/), where I conduct fundamental research on Multimodal Large Language Models (MLLMs) for medical applications, including radiological report generation and medical visual question answering (VQA). I am advised by [Pablo A. Estevez](https://scholar.google.com/citations?user=SM1ghUEAAAAJ&hl=en), [Denis Parra](https://scholar.google.com/citations?user=aQ9TkcIAAAAJ&hl=en), [Domingo Mery](https://scholar.google.com/citations?user=hif3OgsAAAAJ&hl=en), and [Rodrigo Salas](https://scholar.google.com/citations?user=ZaqDIPcAAAAJ&hl=es).
 
 My research interests include multimodality, improving image projection into the latent space of Large Language Models, autoencoder architectures, data generation with diffusion models, self-supervised learning, uncertainty quantification, and explainable AI.
 
