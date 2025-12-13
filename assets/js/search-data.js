@@ -410,7 +410,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-did-a-presentation-on-amazon-web-services-aws-chile-about-amazon-sagemaker-and-automl-to-automatically-train-and-tune-ml-models",
           title: 'I did a presentation on Amazon Web Services (AWS) Chile about Amazon SageMaker...',
           description: "",
-          section: "News",},{id: "news-i-joined-ihealth-millennium-institute-for-intelligent-healthcare-engineering-to-conduct-research-on-multimodal-language-models-mllms-for-medical-tasks",
+          section: "News",},{id: "news-i-joined-ihealth-millennium-institute-for-intelligent-healthcare-engineering-to-conduct-research-on-multimodal-large-language-models-mllms-for-medical-tasks",
           title: 'I joined iHEALTH - Millennium Institute for Intelligent Healthcare Engineering to conduct research...',
           description: "",
           section: "News",},{id: "news-i-attended-acl-2024-to-present-2-papers-ihealth-chile-1-at-rrg24-in-context-learning-and-finetuning-of-a-large-multimodal-model-for-radiology-report-generation-and-ihealth-chile-3-amp-amp-2-at-rrg24-template-based-report-generation",
